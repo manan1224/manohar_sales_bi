@@ -1,2 +1,2 @@
 # manohar_sales_bi
-this is power bi project of manohar sales
+This is power bi project of manohar sales || It was my first project of power bi || took guidance from youtube 
